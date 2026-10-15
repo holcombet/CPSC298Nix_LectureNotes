@@ -1,0 +1,7 @@
+INFO Application starting
+INFO Loading configuration
+ERROR Database connection failed
+INFO Retrying connection
+WARNING Slow response from server
+ERROR Request timed out
+INFO Application shutting down
